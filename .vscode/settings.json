@@ -2,8 +2,12 @@
     "cSpell.words": [
         "aspnet",
         "ASPNETCORE",
+        "basketapi",
+        "basketdb",
         "borderless",
+        "catalogapi",
         "catalogdb",
+        "distributedcache",
         "Lumix",
         "Mapster",
         "Mediat",
