@@ -7,6 +7,8 @@
         "borderless",
         "catalogapi",
         "catalogdb",
+        "discountdb",
+        "discountgrpc",
         "distributedcache",
         "Lumix",
         "Mapster",
